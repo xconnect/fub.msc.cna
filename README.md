@@ -1,3 +1,5 @@
+[<< back to fub](https://github.com/xconnect/fub)
+
 # Computational Network Analysis
 
 - Dozentin: C. Müller-Birn

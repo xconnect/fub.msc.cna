@@ -5,6 +5,7 @@
 
 ## Content
 
+- books
 - slides
 - homeworks
 - poster (presentation)

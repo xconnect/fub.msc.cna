@@ -1,4 +1,7 @@
-# Computational Network Analysis (W 2015/2016)
+# Computational Network Analysis
+
+- Dozentin: C. Müller-Birn
+- Semester: Winter 2015/2016
 
 ## Content
 

@@ -1,4 +1,4 @@
-[<< back to fub](https://github.com/xconnect/fub)
+[<< back to fub](https://github.com/xconnect/fub#course-list-this-repository-covers)
 
 # Computational Network Analysis
 

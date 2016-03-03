@@ -4,7 +4,7 @@
 
 # Computational Network Analysis
 
-- Lecturer: C. Müller-Birn
+- Lecturer: Prof. Dr. C. Müller-Birn
 - Semester: Winter 2015/2016
 
 ## Content
